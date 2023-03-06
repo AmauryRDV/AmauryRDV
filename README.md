@@ -1,5 +1,5 @@
 ### Hi there 👋
-[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://badgen.net/badge/:subject/:status/:color?icon=github)
+
 <!--
 Here are some ideas to get you started:
 
