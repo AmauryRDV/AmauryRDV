@@ -1,7 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/AmauryRDV/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmauryRDV&repo=github-readme-stats&theme=buefy" />
-</a>
+
 <!--
 Here are some ideas to get you started:
 
