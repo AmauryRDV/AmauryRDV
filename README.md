@@ -6,6 +6,7 @@
 1er année
 - 2022 Dole Mai-Juin 2022 : https://decoupes-service-papiers.fr/
 - 2022 Dole Mai-Juin 2022 : https://medical-print.fr/
+
 2ème année
 - 2023 Biarne Janvier-Février : https://fablab-net-iki.org/
 
